@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main_tab">#0E3A16</color>
+    <color name="divide_tab">#124D1E</color>
+    <color name="body_tab">#2E4272</color>
+    <color name="block_stock">#00C78C</color>
+    <color name="white">#ffffff</color>
+    <color name="title_tab">#162955</color>
+</resources>
