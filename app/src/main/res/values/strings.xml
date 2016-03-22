@@ -23,4 +23,8 @@
     <string name="last_trade_price_only">Last Price:</string>
     <string name="change">Change:</string>
     <string name="days_range">Daily Price Range:</string>
+    <string name="daily_ave_volume">Daily Average Volume:</string>
+    <string name="total_volume">Total Volume:</string>
+    <string name="stock_exchange">Stock Exchange:</string>
+    <string name="market_cap">Market Cap:</string>
 </resources>
